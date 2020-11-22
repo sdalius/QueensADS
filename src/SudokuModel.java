@@ -33,5 +33,4 @@ public class SudokuModel {
         }
         return sudokuModelCopy;
     }
-
 }
